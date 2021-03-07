@@ -1,4 +1,4 @@
-name: Run puppeeteer for Colorado Quiz
+name: Run puppeeteer for PCNA (Stage)
 
 on:
   push:
