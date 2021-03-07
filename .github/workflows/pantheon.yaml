@@ -35,7 +35,7 @@ jobs:
       if: always()
     - run: git add .;
       if: always()
-    - run: git commit -m "add all files" -m "yes, really";
+    - run: git commit -m "add pantheon perf log" -m "perf matters";
       if: always()
     - run: git pull --rebase --strategy-option=theirs;
       if: always()
