@@ -2,7 +2,7 @@
 
 
 Start a new run
-Sun Mar 14 2021 16:52:03 GMT+0000 (Coordinated Universal Time)
+Sun Mar 14 2021 17:41:44 GMT+0000 (Coordinated Universal Time)
 
 
 
@@ -14,7 +14,7 @@ Sun Mar 14 2021 16:52:03 GMT+0000 (Coordinated Universal Time)
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us: 
 
 
-Total load time is 8.843 seconds
+Total load time is 8.995 seconds
 
 
 93% of CSS is unused, 8 total stylesheets
@@ -31,13 +31,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca: 
 
 
-Total load time is 2.522 seconds
+Total load time is 2.308 seconds
 
 
 93% of CSS is unused, 8 total stylesheets
 
 
-76% of JS is unused
+62% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca
@@ -48,7 +48,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/bags/backpacks: 
 
 
-Total load time is 4.69 seconds
+Total load time is 3.206 seconds
 
 
 92% of CSS is unused, 10 total stylesheets
@@ -65,7 +65,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/bags/backpacks: 
 
 
-Total load time is 3.028 seconds
+Total load time is 3.265 seconds
 
 
 92% of CSS is unused, 10 total stylesheets
@@ -82,13 +82,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/drinkware/tumblers: 
 
 
-Total load time is 4.67 seconds
+Total load time is 2.862 seconds
 
 
 92% of CSS is unused, 10 total stylesheets
 
 
-77% of JS is unused
+76% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/drinkware/tumblers
@@ -99,7 +99,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/drinkware/tumblers: 
 
 
-Total load time is 3.352 seconds
+Total load time is 3.403 seconds
 
 
 92% of CSS is unused, 10 total stylesheets
@@ -116,7 +116,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/technology/headphones-earbuds: 
 
 
-Total load time is 4.134 seconds
+Total load time is 3.147 seconds
 
 
 92% of CSS is unused, 10 total stylesheets
@@ -133,7 +133,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/technology/headphones-earbuds: 
 
 
-Total load time is 2.719 seconds
+Total load time is 2.986 seconds
 
 
 92% of CSS is unused, 10 total stylesheets
@@ -150,7 +150,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/outdoor-sport/outdoor-blankets: 
 
 
-Total load time is 4.329 seconds
+Total load time is 2.661 seconds
 
 
 92% of CSS is unused, 10 total stylesheets
@@ -167,13 +167,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/outdoor-sport/outdoor-blankets: 
 
 
-Total load time is 2.739 seconds
+Total load time is 2.852 seconds
 
 
 92% of CSS is unused, 10 total stylesheets
 
 
-74% of JS is unused
+75% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/outdoor-sport/outdoor-blankets
@@ -184,13 +184,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/apparel/hoodies-sweatshirts: 
 
 
-Total load time is 5.225 seconds
+Total load time is 3.325 seconds
 
 
 92% of CSS is unused, 10 total stylesheets
 
 
-59% of JS is unused
+60% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/apparel/hoodies-sweatshirts
@@ -201,13 +201,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/apparel/hoodies-sweatshirts: 
 
 
-Total load time is 2.803 seconds
+Total load time is 3.045 seconds
 
 
 92% of CSS is unused, 10 total stylesheets
 
 
-77% of JS is unused
+61% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/apparel/hoodies-sweatshirts
@@ -218,13 +218,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/product/welly-tumbler-traveler-bundle-set-1629-12: 
 
 
-Total load time is 2.625 seconds
+Total load time is 2.49 seconds
 
 
 92% of CSS is unused, 9 total stylesheets
 
 
-77% of JS is unused
+76% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/product/welly-tumbler-traveler-bundle-set-1629-12
@@ -235,7 +235,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/product/welly-tumbler-traveler-bundle-set-1629-12: 
 
 
-Total load time is 2.28 seconds
+Total load time is 3.101 seconds
 
 
 92% of CSS is unused, 9 total stylesheets
@@ -252,13 +252,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/product/denon-ah-gc30-bluetooth-anc-headphones-7197-31: 
 
 
-Total load time is 2.777 seconds
+Total load time is 2.887 seconds
 
 
 92% of CSS is unused, 9 total stylesheets
 
 
-63% of JS is unused
+77% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/product/denon-ah-gc30-bluetooth-anc-headphones-7197-31
@@ -269,7 +269,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/product/denon-ah-gc30-bluetooth-anc-headphones-7197-31: 
 
 
-Total load time is 2.631 seconds
+Total load time is 2.478 seconds
 
 
 92% of CSS is unused, 9 total stylesheets
@@ -286,13 +286,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/product/high-sierra-roll-up-puffy-sherpa-blanket-8052-84: 
 
 
-Total load time is 3.125 seconds
+Total load time is 2.39 seconds
 
 
 92% of CSS is unused, 9 total stylesheets
 
 
-64% of JS is unused
+65% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/product/high-sierra-roll-up-puffy-sherpa-blanket-8052-84
@@ -303,7 +303,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/product/high-sierra-roll-up-puffy-sherpa-blanket-8052-84: 
 
 
-Total load time is 2.455 seconds
+Total load time is 3.537 seconds
 
 
 92% of CSS is unused, 9 total stylesheets
@@ -320,13 +320,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/product/womens-copperbay-roots73-fz-hoody-tm98734: 
 
 
-Total load time is 2.981 seconds
+Total load time is 2.463 seconds
 
 
 91% of CSS is unused, 9 total stylesheets
 
 
-64% of JS is unused
+66% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/product/womens-copperbay-roots73-fz-hoody-tm98734
@@ -337,7 +337,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/product/womens-copperbay-roots73-fz-hoody-tm98734: 
 
 
-Total load time is 2.525 seconds
+Total load time is 2.621 seconds
 
 
 91% of CSS is unused, 9 total stylesheets
@@ -354,13 +354,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/tools-services/customizable-ecatalogs: 
 
 
-Total load time is 2.643 seconds
+Total load time is 3.48 seconds
 
 
-94% of CSS is unused, 5 total stylesheets
+94% of CSS is unused, 6 total stylesheets
 
 
-70% of JS is unused
+74% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/tools-services/customizable-ecatalogs
@@ -371,7 +371,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/tools-services/build-your-own-flyers: 
 
 
-Total load time is 7.568 seconds
+Total load time is 7.46 seconds
 
 
 96% of CSS is unused, 9 total stylesheets
@@ -388,7 +388,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/tools-services/custom-websites: 
 
 
-Total load time is 2.35 seconds
+Total load time is 2.273 seconds
 
 
 94% of CSS is unused, 22 total stylesheets
@@ -405,7 +405,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/how-to-order/leeds: 
 
 
-Total load time is 2.411 seconds
+Total load time is 2.175 seconds
 
 
 95% of CSS is unused, 18 total stylesheets
@@ -422,13 +422,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/blog: 
 
 
-Total load time is 2.768 seconds
+Total load time is 2.292 seconds
 
 
 95% of CSS is unused, 6 total stylesheets
 
 
-74% of JS is unused
+75% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/blog
@@ -439,7 +439,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/tools-services/why-pcna: 
 
 
-Total load time is 2.22 seconds
+Total load time is 2.213 seconds
 
 
 94% of CSS is unused, 33 total stylesheets
@@ -456,13 +456,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/tools-services/why-pcna: 
 
 
-Total load time is 2.399 seconds
+Total load time is 2.292 seconds
 
 
 94% of CSS is unused, 33 total stylesheets
 
 
-76% of JS is unused
+62% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/tools-services/why-pcna
@@ -473,7 +473,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/tools-services/electronic-integration: 
 
 
-Total load time is 2.464 seconds
+Total load time is 2.29 seconds
 
 
 95% of CSS is unused, 10 total stylesheets
@@ -490,7 +490,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/tools-services/electronic-integration: 
 
 
-Total load time is 2.037 seconds
+Total load time is 2.664 seconds
 
 
 95% of CSS is unused, 10 total stylesheets
@@ -507,7 +507,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/tools-services/worldsource-custom-sourcing: 
 
 
-Total load time is 2.726 seconds
+Total load time is 2.316 seconds
 
 
 94% of CSS is unused, 20 total stylesheets
@@ -524,13 +524,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/tools-services/worldsource-custom-sourcing: 
 
 
-Total load time is 2.279 seconds
+Total load time is 2.446 seconds
 
 
 94% of CSS is unused, 20 total stylesheets
 
 
-72% of JS is unused
+70% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/tools-services/worldsource-custom-sourcing
@@ -541,13 +541,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/tools-services/perfectly-packaged: 
 
 
-Total load time is 2.68 seconds
+Total load time is 2.716 seconds
 
 
 95% of CSS is unused, 20 total stylesheets
 
 
-47% of JS is unused
+52% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/tools-services/perfectly-packaged
@@ -558,13 +558,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/tools-services/perfectly-packaged: 
 
 
-Total load time is 2.553 seconds
+Total load time is 2.562 seconds
 
 
 94% of CSS is unused, 20 total stylesheets
 
 
-52% of JS is unused
+53% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/tools-services/perfectly-packaged
@@ -575,7 +575,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/brand/leeds/shop-all: 
 
 
-Total load time is 2.134 seconds
+Total load time is 2.839 seconds
 
 
 94% of CSS is unused, 6 total stylesheets
@@ -592,13 +592,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/brand/leeds/shop-all: 
 
 
-Total load time is 2.15 seconds
+Total load time is 2.819 seconds
 
 
 94% of CSS is unused, 6 total stylesheets
 
 
-65% of JS is unused
+64% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/brand/leeds/shop-all
@@ -609,7 +609,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/brand/bullet/shop-all: 
 
 
-Total load time is 2.143 seconds
+Total load time is 1.949 seconds
 
 
 94% of CSS is unused, 6 total stylesheets
@@ -626,13 +626,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/brand/bullet/shop-all: 
 
 
-Total load time is 2.969 seconds
+Total load time is 2.248 seconds
 
 
 94% of CSS is unused, 6 total stylesheets
 
 
-64% of JS is unused
+63% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/brand/bullet/shop-all
@@ -643,13 +643,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/brand/bullet/shop-all: 
 
 
-Total load time is 1.974 seconds
+Total load time is 2.238 seconds
 
 
 94% of CSS is unused, 6 total stylesheets
 
 
-61% of JS is unused
+63% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/brand/bullet/shop-all
@@ -660,13 +660,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/brand/trimark/shop-all: 
 
 
-Total load time is 2.951 seconds
+Total load time is 2.251 seconds
 
 
 94% of CSS is unused, 6 total stylesheets
 
 
-64% of JS is unused
+63% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/brand/trimark/shop-all
@@ -677,7 +677,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-ca/brand/trimark/shop-all: 
 
 
-Total load time is 2.75 seconds
+Total load time is 2.26 seconds
 
 
 94% of CSS is unused, 6 total stylesheets
@@ -694,7 +694,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/brand/herschel: 
 
 
-Total load time is 2.261 seconds
+Total load time is 2.206 seconds
 
 
 95% of CSS is unused, 21 total stylesheets
@@ -711,13 +711,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/brand/skullcandy: 
 
 
-Total load time is 1.888 seconds
+Total load time is 1.952 seconds
 
 
 94% of CSS is unused, 7 total stylesheets
 
 
-74% of JS is unused
+75% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/brand/skullcandy
@@ -728,7 +728,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/brand/roots-73: 
 
 
-Total load time is 2.223 seconds
+Total load time is 2.057 seconds
 
 
 95% of CSS is unused, 18 total stylesheets
@@ -745,13 +745,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/brand/camelbak: 
 
 
-Total load time is 1.977 seconds
+Total load time is 2.131 seconds
 
 
 94% of CSS is unused, 6 total stylesheets
 
 
-76% of JS is unused
+75% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/brand/camelbak
@@ -762,13 +762,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/brand/arctic-zone: 
 
 
-Total load time is 2.476 seconds
+Total load time is 2.24 seconds
 
 
 95% of CSS is unused, 19 total stylesheets
 
 
-76% of JS is unused
+75% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/brand/arctic-zone
@@ -779,7 +779,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/brand/moop/shop-all: 
 
 
-Total load time is 2.819 seconds
+Total load time is 3.541 seconds
 
 
 93% of CSS is unused, 8 total stylesheets
@@ -796,13 +796,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/brand/rocketbook/shop-all: 
 
 
-Total load time is 3.181 seconds
+Total load time is 3.052 seconds
 
 
 93% of CSS is unused, 8 total stylesheets
 
 
-66% of JS is unused
+67% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/brand/rocketbook/shop-all
@@ -813,7 +813,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/new-products: 
 
 
-Total load time is 4.611 seconds
+Total load time is 2.717 seconds
 
 
 91% of CSS is unused, 10 total stylesheets
@@ -830,7 +830,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/clearance-products: 
 
 
-Total load time is 4.182 seconds
+Total load time is 2.96 seconds
 
 
 91% of CSS is unused, 10 total stylesheets
@@ -847,13 +847,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/deals: 
 
 
-Total load time is 4.797 seconds
+Total load time is 2.914 seconds
 
 
 91% of CSS is unused, 10 total stylesheets
 
 
-76% of JS is unused
+77% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/deals
@@ -864,13 +864,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/request-samples/leeds: 
 
 
-Total load time is 2.191 seconds
+Total load time is 2.089 seconds
 
 
 95% of CSS is unused, 15 total stylesheets
 
 
-64% of JS is unused
+62% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/request-samples/leeds
@@ -881,13 +881,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/how-to-order/leeds: 
 
 
-Total load time is 2.12 seconds
+Total load time is 1.854 seconds
 
 
 95% of CSS is unused, 18 total stylesheets
 
 
-61% of JS is unused
+64% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/how-to-order/leeds
@@ -898,13 +898,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/fulfillment-shipping/leeds: 
 
 
-Total load time is 2.346 seconds
+Total load time is 1.979 seconds
 
 
 95% of CSS is unused, 17 total stylesheets
 
 
-63% of JS is unused
+64% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/fulfillment-shipping/leeds
@@ -915,13 +915,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/returns-cancellations/leeds: 
 
 
-Total load time is 1.98 seconds
+Total load time is 2.128 seconds
 
 
 95% of CSS is unused, 13 total stylesheets
 
 
-62% of JS is unused
+63% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/returns-cancellations/leeds
@@ -932,7 +932,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/how-to-order/leeds: 
 
 
-Total load time is 2.249 seconds
+Total load time is 2.448 seconds
 
 
 95% of CSS is unused, 18 total stylesheets
@@ -949,13 +949,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/user/sign-up: 
 
 
-Total load time is 2.497 seconds
+Total load time is 2.21 seconds
 
 
 95% of CSS is unused, 6 total stylesheets
 
 
-62% of JS is unused
+63% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/user/sign-up
@@ -966,13 +966,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/site-map: 
 
 
-Total load time is 2.416 seconds
+Total load time is 2.602 seconds
 
 
 94% of CSS is unused, 6 total stylesheets
 
 
-62% of JS is unused
+63% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/site-map
@@ -983,7 +983,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/about: 
 
 
-Total load time is 2.932 seconds
+Total load time is 2.535 seconds
 
 
 94% of CSS is unused, 32 total stylesheets
@@ -1000,7 +1000,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/brand/list: 
 
 
-Total load time is 2.362 seconds
+Total load time is 2.861 seconds
 
 
 94% of CSS is unused, 6 total stylesheets
@@ -1017,13 +1017,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/careers: 
 
 
-Total load time is 2.201 seconds
+Total load time is 1.97 seconds
 
 
-93% of CSS is unused, 26 total stylesheets
+93% of CSS is unused, 27 total stylesheets
 
 
-65% of JS is unused
+74% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/careers
@@ -1034,13 +1034,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/compliance: 
 
 
-Total load time is 2.261 seconds
+Total load time is 2.076 seconds
 
 
 94% of CSS is unused, 18 total stylesheets
 
 
-76% of JS is unused
+75% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/compliance
@@ -1051,7 +1051,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/product-recalls: 
 
 
-Total load time is 2.271 seconds
+Total load time is 1.975 seconds
 
 
 95% of CSS is unused, 8 total stylesheets
@@ -1068,7 +1068,7 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/privacy-policy: 
 
 
-Total load time is 2.079 seconds
+Total load time is 1.973 seconds
 
 
 95% of CSS is unused, 6 total stylesheets
@@ -1085,13 +1085,13 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 ## For Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/legal: 
 
 
-Total load time is 1.974 seconds
+Total load time is 1.909 seconds
 
 
 95% of CSS is unused, 13 total stylesheets
 
 
-64% of JS is unused
+66% of JS is unused
 
 
 End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.znodedev.com/en-us/legal
@@ -1100,8 +1100,8 @@ End of report for Webpage Title: Stage PCNA Znode Dev URL: https://stagepcna.zno
 End of run
 
 
-The whole thing took 3.4328333333333334 minutes.
-Sun Mar 14 2021 16:55:29 GMT+0000 (Coordinated Universal Time)
+The whole thing took 3.22275 minutes.
+Sun Mar 14 2021 17:44:57 GMT+0000 (Coordinated Universal Time)
 
 
 
