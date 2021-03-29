@@ -14,7 +14,7 @@ Platform:
   linux x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.1.tgz: Request failed "502 Bad Gateway"
+  Error: https://registry.yarnpkg.com/debug/-/debug-4.3.1.tgz: Request failed "502 Bad Gateway"
       at ResponseError.ExtendableBuiltin (/opt/hostedtoolcache/node/14.16.0/x64/lib/node_modules/yarn/lib/cli.js:696:66)
       at new ResponseError (/opt/hostedtoolcache/node/14.16.0/x64/lib/node_modules/yarn/lib/cli.js:802:124)
       at Request.<anonymous> (/opt/hostedtoolcache/node/14.16.0/x64/lib/node_modules/yarn/lib/cli.js:67058:16)
