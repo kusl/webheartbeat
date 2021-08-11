@@ -1,30 +1,30 @@
 Arguments: 
-  /opt/hostedtoolcache/node/14.16.0/x64/bin/node /opt/hostedtoolcache/node/14.16.0/x64/bin/yarn
+  /opt/hostedtoolcache/node/14.17.4/x64/bin/node /opt/hostedtoolcache/node/14.17.4/x64/bin/yarn
 
 PATH: 
-  /opt/hostedtoolcache/node/14.16.0/x64/bin:/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin:/opt/pipx_bin:/usr/share/rust/.cargo/bin:/home/runner/.config/composer/vendor/bin:/usr/local/.ghcup/bin:/home/runner/.dotnet/tools:/snap/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+  /opt/hostedtoolcache/node/14.17.4/x64/bin:/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin:/home/runner/.local/bin:/opt/pipx_bin:/usr/share/rust/.cargo/bin:/home/runner/.config/composer/vendor/bin:/usr/local/.ghcup/bin:/home/runner/.dotnet/tools:/snap/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 
 Yarn version: 
-  1.22.10
+  1.22.11
 
 Node version: 
-  14.16.0
+  14.17.4
 
 Platform: 
   linux x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/debug/-/debug-4.3.1.tgz: Request failed "502 Bad Gateway"
-      at ResponseError.ExtendableBuiltin (/opt/hostedtoolcache/node/14.16.0/x64/lib/node_modules/yarn/lib/cli.js:696:66)
-      at new ResponseError (/opt/hostedtoolcache/node/14.16.0/x64/lib/node_modules/yarn/lib/cli.js:802:124)
-      at Request.<anonymous> (/opt/hostedtoolcache/node/14.16.0/x64/lib/node_modules/yarn/lib/cli.js:67058:16)
-      at Request.emit (events.js:315:20)
-      at Request.module.exports.Request.onRequestResponse (/opt/hostedtoolcache/node/14.16.0/x64/lib/node_modules/yarn/lib/cli.js:141539:10)
-      at ClientRequest.emit (events.js:315:20)
-      at HTTPParser.parserOnIncomingClient (_http_client.js:641:27)
+  Error: https://registry.yarnpkg.com/debug/-/debug-4.3.1.tgz: Request failed "500 Internal Server Error"
+      at ResponseError.ExtendableBuiltin (/opt/hostedtoolcache/node/14.17.4/x64/lib/node_modules/yarn/lib/cli.js:696:66)
+      at new ResponseError (/opt/hostedtoolcache/node/14.17.4/x64/lib/node_modules/yarn/lib/cli.js:802:124)
+      at Request.<anonymous> (/opt/hostedtoolcache/node/14.17.4/x64/lib/node_modules/yarn/lib/cli.js:67062:16)
+      at Request.emit (events.js:400:28)
+      at Request.module.exports.Request.onRequestResponse (/opt/hostedtoolcache/node/14.17.4/x64/lib/node_modules/yarn/lib/cli.js:141640:10)
+      at ClientRequest.emit (events.js:400:28)
+      at HTTPParser.parserOnIncomingClient (_http_client.js:647:27)
       at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
-      at TLSSocket.socketOnData (_http_client.js:509:22)
-      at TLSSocket.emit (events.js:315:20)
+      at TLSSocket.socketOnData (_http_client.js:515:22)
+      at TLSSocket.emit (events.js:400:28)
 
 npm manifest: 
   {
