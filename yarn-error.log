@@ -14,7 +14,7 @@ Platform:
   linux x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/progress/-/progress-2.0.3.tgz: Request failed "503 Service Unavailable"
+  Error: https://registry.yarnpkg.com/proxy-from-env/-/proxy-from-env-1.1.0.tgz: Request failed "503 Service Unavailable"
       at ResponseError.ExtendableBuiltin (/opt/hostedtoolcache/node/14.18.2/x64/lib/node_modules/yarn/lib/cli.js:696:66)
       at new ResponseError (/opt/hostedtoolcache/node/14.18.2/x64/lib/node_modules/yarn/lib/cli.js:802:124)
       at Request.<anonymous> (/opt/hostedtoolcache/node/14.18.2/x64/lib/node_modules/yarn/lib/cli.js:67099:16)
