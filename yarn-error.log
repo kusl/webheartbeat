@@ -1,28 +1,28 @@
 Arguments: 
-  /opt/hostedtoolcache/node/14.17.4/x64/bin/node /opt/hostedtoolcache/node/14.17.4/x64/bin/yarn
+  /opt/hostedtoolcache/node/14.18.2/x64/bin/node /opt/hostedtoolcache/node/14.18.2/x64/bin/yarn
 
 PATH: 
-  /opt/hostedtoolcache/node/14.17.4/x64/bin:/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin:/home/runner/.local/bin:/opt/pipx_bin:/usr/share/rust/.cargo/bin:/home/runner/.config/composer/vendor/bin:/usr/local/.ghcup/bin:/home/runner/.dotnet/tools:/snap/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+  /opt/hostedtoolcache/node/14.18.2/x64/bin:/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin:/home/runner/.local/bin:/opt/pipx_bin:/home/runner/.cargo/bin:/home/runner/.config/composer/vendor/bin:/usr/local/.ghcup/bin:/home/runner/.dotnet/tools:/snap/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 
 Yarn version: 
-  1.22.11
+  1.22.17
 
 Node version: 
-  14.17.4
+  14.18.2
 
 Platform: 
   linux x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/debug/-/debug-4.3.1.tgz: Request failed "500 Internal Server Error"
-      at ResponseError.ExtendableBuiltin (/opt/hostedtoolcache/node/14.17.4/x64/lib/node_modules/yarn/lib/cli.js:696:66)
-      at new ResponseError (/opt/hostedtoolcache/node/14.17.4/x64/lib/node_modules/yarn/lib/cli.js:802:124)
-      at Request.<anonymous> (/opt/hostedtoolcache/node/14.17.4/x64/lib/node_modules/yarn/lib/cli.js:67062:16)
+  Error: https://registry.yarnpkg.com/progress/-/progress-2.0.3.tgz: Request failed "503 Service Unavailable"
+      at ResponseError.ExtendableBuiltin (/opt/hostedtoolcache/node/14.18.2/x64/lib/node_modules/yarn/lib/cli.js:696:66)
+      at new ResponseError (/opt/hostedtoolcache/node/14.18.2/x64/lib/node_modules/yarn/lib/cli.js:802:124)
+      at Request.<anonymous> (/opt/hostedtoolcache/node/14.18.2/x64/lib/node_modules/yarn/lib/cli.js:67099:16)
       at Request.emit (events.js:400:28)
-      at Request.module.exports.Request.onRequestResponse (/opt/hostedtoolcache/node/14.17.4/x64/lib/node_modules/yarn/lib/cli.js:141640:10)
+      at Request.module.exports.Request.onRequestResponse (/opt/hostedtoolcache/node/14.18.2/x64/lib/node_modules/yarn/lib/cli.js:141760:10)
       at ClientRequest.emit (events.js:400:28)
       at HTTPParser.parserOnIncomingClient (_http_client.js:647:27)
-      at HTTPParser.parserOnHeadersComplete (_http_common.js:126:17)
+      at HTTPParser.parserOnHeadersComplete (_http_common.js:127:17)
       at TLSSocket.socketOnData (_http_client.js:515:22)
       at TLSSocket.emit (events.js:400:28)
 
