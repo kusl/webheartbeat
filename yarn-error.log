@@ -1,30 +1,22 @@
 Arguments: 
-  /opt/hostedtoolcache/node/14.20.1/x64/bin/node /opt/hostedtoolcache/node/14.20.1/x64/bin/yarn
+  /opt/hostedtoolcache/node/14.21.1/x64/bin/node /opt/hostedtoolcache/node/14.21.1/x64/bin/yarn
 
 PATH: 
-  /opt/hostedtoolcache/node/14.20.1/x64/bin:/home/runner/.local/bin:/opt/pipx_bin:/home/runner/.cargo/bin:/home/runner/.config/composer/vendor/bin:/usr/local/.ghcup/bin:/home/runner/.dotnet/tools:/snap/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+  /opt/hostedtoolcache/node/14.21.1/x64/bin:/home/runner/.local/bin:/opt/pipx_bin:/home/runner/.cargo/bin:/home/runner/.config/composer/vendor/bin:/usr/local/.ghcup/bin:/home/runner/.dotnet/tools:/snap/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 
 Yarn version: 
   1.22.19
 
 Node version: 
-  14.20.1
+  14.21.1
 
 Platform: 
   linux x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/puppeteer/-/puppeteer-8.0.0.tgz: Request failed "502 Bad Gateway"
-      at ResponseError.ExtendableBuiltin (/opt/hostedtoolcache/node/14.20.1/x64/lib/node_modules/yarn/lib/cli.js:696:66)
-      at new ResponseError (/opt/hostedtoolcache/node/14.20.1/x64/lib/node_modules/yarn/lib/cli.js:802:124)
-      at Request.<anonymous> (/opt/hostedtoolcache/node/14.20.1/x64/lib/node_modules/yarn/lib/cli.js:66215:16)
-      at Request.emit (events.js:400:28)
-      at Request.module.exports.Request.onRequestResponse (/opt/hostedtoolcache/node/14.20.1/x64/lib/node_modules/yarn/lib/cli.js:141767:10)
-      at ClientRequest.emit (events.js:400:28)
-      at HTTPParser.parserOnIncomingClient (_http_client.js:647:27)
-      at HTTPParser.parserOnHeadersComplete (_http_common.js:127:17)
-      at TLSSocket.socketOnData (_http_client.js:515:22)
-      at TLSSocket.emit (events.js:400:28)
+  Error: write EPROTO 139893848573824:error:14094410:SSL routines:ssl3_read_bytes:sslv3 alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1544:SSL alert number 40
+  
+      at WriteWrap.onWriteComplete [as oncomplete] (internal/stream_base_commons.js:94:16)
 
 npm manifest: 
   {
