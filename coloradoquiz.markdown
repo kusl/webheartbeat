@@ -2,7 +2,7 @@
 
 
 Start a new run
-Tue Mar 07 2023 11:04:28 GMT+0000 (Coordinated Universal Time)
+Tue Mar 07 2023 06:08:37 GMT+0000 (Coordinated Universal Time)
 
 
 
@@ -14,7 +14,7 @@ Tue Mar 07 2023 11:04:28 GMT+0000 (Coordinated Universal Time)
 ## For Webpage Title: US Geography Quiz URL: https://coloradoquiz.web.app/quiz/us-geography: 
 
 
-Total load time is 3.679 seconds
+Total load time is 1.446 seconds
 
 
 96% of CSS is unused, 18 total stylesheets
@@ -24,47 +24,14 @@ Total load time is 3.679 seconds
 
 
 End of report for Webpage Title: US Geography Quiz URL: https://coloradoquiz.web.app/quiz/us-geography
-
-
-
-
-## For Webpage Title: US History Quiz URL: https://coloradoquiz.web.app/quiz/us-history: 
-
-
-Total load time is 1.806 seconds
-
-
-96% of CSS is unused, 18 total stylesheets
-
-
-62% of JS is unused
-
-
-End of report for Webpage Title: US History Quiz URL: https://coloradoquiz.web.app/quiz/us-history
-
-
-
-
-## For Webpage Title: US Civics Quiz URL: https://coloradoquiz.web.app/quiz/us-civics: 
-
-
-Total load time is 1.613 seconds
-
-
-97% of CSS is unused, 19 total stylesheets
-
-
-70% of JS is unused
-
-
-End of report for Webpage Title: US Civics Quiz URL: https://coloradoquiz.web.app/quiz/us-civics
-
-
-End of run
-
-
-The whole thing took 0.14026666666666668 minutes.
-Tue Mar 07 2023 11:04:36 GMT+0000 (Coordinated Universal Time)
+{
+  error: Error: net::ERR_TIMED_OUT at https://coloradoquiz.web.app/quiz/us-history
+      at navigate (/home/runner/work/webheartbeat/webheartbeat/node_modules/puppeteer/lib/cjs/puppeteer/common/FrameManager.js:115:23)
+      at processTicksAndRejections (internal/process/task_queues.js:95:5)
+      at async FrameManager.navigateFrame (/home/runner/work/webheartbeat/webheartbeat/node_modules/puppeteer/lib/cjs/puppeteer/common/FrameManager.js:90:21)
+      at async Frame.goto (/home/runner/work/webheartbeat/webheartbeat/node_modules/puppeteer/lib/cjs/puppeteer/common/FrameManager.js:416:16)
+      at async Page.goto (/home/runner/work/webheartbeat/webheartbeat/node_modules/puppeteer/lib/cjs/puppeteer/common/Page.js:789:16)
+}
 
 
 
