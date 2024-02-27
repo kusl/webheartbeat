@@ -2,7 +2,7 @@
 
 
 Start a new run
-Tue Feb 27 2024 02:11:55 GMT+0000 (Coordinated Universal Time)
+Tue Feb 27 2024 03:06:43 GMT+0000 (Coordinated Universal Time)
 
 
 
@@ -14,13 +14,13 @@ Tue Feb 27 2024 02:11:55 GMT+0000 (Coordinated Universal Time)
 ## For Webpage Title: US Geography Quiz URL: https://coloradoquiz.web.app/quiz/us-geography: 
 
 
-Total load time is 4.969 seconds
+Total load time is 1.759 seconds
 
 
 71% of CSS is unused, 23 total stylesheets
 
 
-61% of JS is unused
+75% of JS is unused
 
 
 End of report for Webpage Title: US Geography Quiz URL: https://coloradoquiz.web.app/quiz/us-geography
@@ -31,13 +31,13 @@ End of report for Webpage Title: US Geography Quiz URL: https://coloradoquiz.web
 ## For Webpage Title: US History Quiz URL: https://coloradoquiz.web.app/quiz/us-history: 
 
 
-Total load time is 1.54 seconds
+Total load time is 1.516 seconds
 
 
-61% of CSS is unused, 22 total stylesheets
+71% of CSS is unused, 23 total stylesheets
 
 
-67% of JS is unused
+65% of JS is unused
 
 
 End of report for Webpage Title: US History Quiz URL: https://coloradoquiz.web.app/quiz/us-history
@@ -48,13 +48,13 @@ End of report for Webpage Title: US History Quiz URL: https://coloradoquiz.web.a
 ## For Webpage Title: US Civics Quiz URL: https://coloradoquiz.web.app/quiz/us-civics: 
 
 
-Total load time is 3.303 seconds
+Total load time is 1.841 seconds
 
 
-61% of CSS is unused, 22 total stylesheets
+71% of CSS is unused, 23 total stylesheets
 
 
-61% of JS is unused
+62% of JS is unused
 
 
 End of report for Webpage Title: US Civics Quiz URL: https://coloradoquiz.web.app/quiz/us-civics
@@ -63,8 +63,8 @@ End of report for Webpage Title: US Civics Quiz URL: https://coloradoquiz.web.ap
 End of run
 
 
-The whole thing took 0.17876666666666666 minutes.
-Tue Feb 27 2024 02:12:06 GMT+0000 (Coordinated Universal Time)
+The whole thing took 0.1108 minutes.
+Tue Feb 27 2024 03:06:50 GMT+0000 (Coordinated Universal Time)
 
 
 
