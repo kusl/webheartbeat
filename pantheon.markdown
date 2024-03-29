@@ -2,7 +2,7 @@
 
 
 Start a new run
-Fri Mar 29 2024 13:20:15 GMT+0000 (Coordinated Universal Time)
+Fri Mar 29 2024 14:17:14 GMT+0000 (Coordinated Universal Time)
 
 
 
@@ -14,7 +14,7 @@ Fri Mar 29 2024 13:20:15 GMT+0000 (Coordinated Universal Time)
 ## For Webpage Title: Drupal Website URL: https://live-wisconsin.pantheonsite.io: 
 
 
-Total load time is 1.613 seconds
+Total load time is 1.545 seconds
 
 
 85% of CSS is unused, 2 total stylesheets
@@ -31,7 +31,7 @@ End of report for Webpage Title: Drupal Website URL: https://live-wisconsin.pant
 ## For Webpage Title: Drupal Website URL: https://dev-kentucky.pantheonsite.io: 
 
 
-Total load time is 1.83 seconds
+Total load time is 1.425 seconds
 
 
 15% of CSS is unused, 1 total stylesheets
@@ -48,10 +48,10 @@ End of report for Webpage Title: Drupal Website URL: https://dev-kentucky.panthe
 ## For Webpage Title: Drupal Website URL: https://dev-presenter.pantheonsite.io: 
 
 
-Total load time is 1.132 seconds
+Total load time is 1.523 seconds
 
 
-85% of CSS is unused, 2 total stylesheets
+15% of CSS is unused, 1 total stylesheets
 
 
 59% of JS is unused
@@ -65,7 +65,7 @@ End of report for Webpage Title: Drupal Website URL: https://dev-presenter.panth
 ## For Webpage Title: Drupal Website URL: https://dev-oregon.pantheonsite.io: 
 
 
-Total load time is 1.535 seconds
+Total load time is 1.66 seconds
 
 
 15% of CSS is unused, 1 total stylesheets
@@ -82,7 +82,7 @@ End of report for Webpage Title: Drupal Website URL: https://dev-oregon.pantheon
 ## For Webpage Title: Drupal Website URL: https://dev-idahodeveloper.pantheonsite.io: 
 
 
-Total load time is 3.608 seconds
+Total load time is 3.771 seconds
 
 
 NaN% of CSS is unused, 3 total stylesheets
@@ -99,10 +99,10 @@ End of report for Webpage Title: Drupal Website URL: https://dev-idahodeveloper.
 ## For Webpage Title: Drupal Website URL: https://dev-bang.pantheonsite.io: 
 
 
-Total load time is 1.135 seconds
+Total load time is 1.532 seconds
 
 
-85% of CSS is unused, 2 total stylesheets
+15% of CSS is unused, 1 total stylesheets
 
 
 59% of JS is unused
@@ -116,7 +116,7 @@ End of report for Webpage Title: Drupal Website URL: https://dev-bang.pantheonsi
 ## For Webpage Title: Drupal Website URL: https://dev-usa.pantheonsite.io: 
 
 
-Total load time is 1.448 seconds
+Total load time is 1.815 seconds
 
 
 15% of CSS is unused, 1 total stylesheets
@@ -133,7 +133,7 @@ End of report for Webpage Title: Drupal Website URL: https://dev-usa.pantheonsit
 ## For Webpage Title: Drupal Website URL: https://live-bang.pantheonsite.io: 
 
 
-Total load time is 1.466 seconds
+Total load time is 1.485 seconds
 
 
 15% of CSS is unused, 1 total stylesheets
@@ -150,7 +150,7 @@ End of report for Webpage Title: Drupal Website URL: https://live-bang.pantheons
 ## For Webpage Title: Drupal Website URL: https://dev-deutschland.pantheonsite.io: 
 
 
-Total load time is 1.181 seconds
+Total load time is 1.241 seconds
 
 
 85% of CSS is unused, 2 total stylesheets
@@ -167,7 +167,7 @@ End of report for Webpage Title: Drupal Website URL: https://dev-deutschland.pan
 ## For Webpage Title: Drupal Website URL: https://dev-election2020.pantheonsite.io: 
 
 
-Total load time is 1.985 seconds
+Total load time is 2.875 seconds
 
 
 85% of CSS is unused, 2 total stylesheets
@@ -184,7 +184,7 @@ End of report for Webpage Title: Drupal Website URL: https://dev-election2020.pa
 ## For Webpage Title: Drupal Website URL: https://dev-indecision.pantheonsite.io: 
 
 
-Total load time is 2.854 seconds
+Total load time is 2.777 seconds
 
 
 15% of CSS is unused, 1 total stylesheets
@@ -201,7 +201,7 @@ End of report for Webpage Title: Drupal Website URL: https://dev-indecision.pant
 ## For Webpage Title: Drupal Website URL: https://dev-europeanunion.pantheonsite.io: 
 
 
-Total load time is 1.201 seconds
+Total load time is 1.71 seconds
 
 
 85% of CSS is unused, 2 total stylesheets
@@ -218,7 +218,7 @@ End of report for Webpage Title: Drupal Website URL: https://dev-europeanunion.p
 ## For Webpage Title: Drupal Website URL: https://dev-iowa.pantheonsite.io: 
 
 
-Total load time is 1.164 seconds
+Total load time is 1.556 seconds
 
 
 85% of CSS is unused, 2 total stylesheets
@@ -235,7 +235,7 @@ End of report for Webpage Title: Drupal Website URL: https://dev-iowa.pantheonsi
 ## For Webpage Title: Drupal Website URL: https://test-europeanunion.pantheonsite.io: 
 
 
-Total load time is 1.469 seconds
+Total load time is 1.228 seconds
 
 
 85% of CSS is unused, 2 total stylesheets
@@ -252,7 +252,7 @@ End of report for Webpage Title: Drupal Website URL: https://test-europeanunion.
 ## For Webpage Title: Drupal Website URL: https://test-iowa.pantheonsite.io: 
 
 
-Total load time is 1.164 seconds
+Total load time is 1.54 seconds
 
 
 85% of CSS is unused, 2 total stylesheets
@@ -269,7 +269,7 @@ End of report for Webpage Title: Drupal Website URL: https://test-iowa.pantheons
 ## For Webpage Title: Drupal Website URL: https://live-europeanunion.pantheonsite.io: 
 
 
-Total load time is 1.177 seconds
+Total load time is 1.505 seconds
 
 
 85% of CSS is unused, 2 total stylesheets
@@ -286,7 +286,7 @@ End of report for Webpage Title: Drupal Website URL: https://live-europeanunion.
 ## For Webpage Title: Drupal Website URL: https://live-iowa.pantheonsite.io: 
 
 
-Total load time is 1.214 seconds
+Total load time is 1.222 seconds
 
 
 85% of CSS is unused, 2 total stylesheets
@@ -303,7 +303,7 @@ End of report for Webpage Title: Drupal Website URL: https://live-iowa.pantheons
 ## For Webpage Title: Drupal Website URL: https://dev-official.pantheonsite.io: 
 
 
-Total load time is 1.578 seconds
+Total load time is 1.221 seconds
 
 
 85% of CSS is unused, 2 total stylesheets
@@ -320,10 +320,10 @@ End of report for Webpage Title: Drupal Website URL: https://dev-official.panthe
 ## For Webpage Title: Drupal Website URL: https://dev-portland.pantheonsite.io: 
 
 
-Total load time is 1.224 seconds
+Total load time is 1.414 seconds
 
 
-85% of CSS is unused, 2 total stylesheets
+15% of CSS is unused, 1 total stylesheets
 
 
 59% of JS is unused
@@ -337,10 +337,10 @@ End of report for Webpage Title: Drupal Website URL: https://dev-portland.panthe
 ## For Webpage Title: Drupal Website URL: https://dev-meeting.pantheonsite.io: 
 
 
-Total load time is 1.302 seconds
+Total load time is 1.86 seconds
 
 
-85% of CSS is unused, 2 total stylesheets
+15% of CSS is unused, 1 total stylesheets
 
 
 59% of JS is unused
@@ -354,7 +354,7 @@ End of report for Webpage Title: Drupal Website URL: https://dev-meeting.pantheo
 ## For Webpage Title: Drupal Website URL: https://dev-serious.pantheonsite.io: 
 
 
-Total load time is 3.082 seconds
+Total load time is 2.538 seconds
 
 
 15% of CSS is unused, 1 total stylesheets
@@ -371,7 +371,7 @@ End of report for Webpage Title: Drupal Website URL: https://dev-serious.pantheo
 ## For Webpage Title: Drupal Website URL: https://dev-nevada.pantheonsite.io: 
 
 
-Total load time is 1.983 seconds
+Total load time is 2.471 seconds
 
 
 8% of CSS is unused, 2 total stylesheets
@@ -388,7 +388,7 @@ End of report for Webpage Title: Drupal Website URL: https://dev-nevada.pantheon
 ## For Webpage Title: Drupal Website URL: https://dev-utah.pantheonsite.io: 
 
 
-Total load time is 1.981 seconds
+Total load time is 2.538 seconds
 
 
 8% of CSS is unused, 2 total stylesheets
@@ -405,10 +405,10 @@ End of report for Webpage Title: Drupal Website URL: https://dev-utah.pantheonsi
 ## For Webpage Title: Drupal Website URL: https://dev-colorado.pantheonsite.io: 
 
 
-Total load time is 1.149 seconds
+Total load time is 1.42 seconds
 
 
-85% of CSS is unused, 2 total stylesheets
+15% of CSS is unused, 1 total stylesheets
 
 
 59% of JS is unused
@@ -422,10 +422,10 @@ End of report for Webpage Title: Drupal Website URL: https://dev-colorado.panthe
 ## For Webpage Title: Drupal Website URL: https://dev-queenslibrary.pantheonsite.io: 
 
 
-Total load time is 1.15 seconds
+Total load time is 1.817 seconds
 
 
-85% of CSS is unused, 2 total stylesheets
+15% of CSS is unused, 1 total stylesheets
 
 
 59% of JS is unused
@@ -439,10 +439,10 @@ End of report for Webpage Title: Drupal Website URL: https://dev-queenslibrary.p
 ## For Webpage Title: Drupal Website URL: https://dev-newjersey.pantheonsite.io: 
 
 
-Total load time is 1.28 seconds
+Total load time is 1.696 seconds
 
 
-85% of CSS is unused, 2 total stylesheets
+15% of CSS is unused, 1 total stylesheets
 
 
 59% of JS is unused
@@ -456,10 +456,10 @@ End of report for Webpage Title: Drupal Website URL: https://dev-newjersey.panth
 ## For Webpage Title: Drupal Website URL: https://dev-subaru.pantheonsite.io: 
 
 
-Total load time is 1.283 seconds
+Total load time is 1.507 seconds
 
 
-85% of CSS is unused, 2 total stylesheets
+15% of CSS is unused, 1 total stylesheets
 
 
 59% of JS is unused
@@ -473,10 +473,10 @@ End of report for Webpage Title: Drupal Website URL: https://dev-subaru.pantheon
 ## For Webpage Title: Drupal Website URL: https://dev-boise.pantheonsite.io: 
 
 
-Total load time is 1.13 seconds
+Total load time is 1.511 seconds
 
 
-85% of CSS is unused, 2 total stylesheets
+15% of CSS is unused, 1 total stylesheets
 
 
 59% of JS is unused
@@ -490,10 +490,10 @@ End of report for Webpage Title: Drupal Website URL: https://dev-boise.pantheons
 ## For Webpage Title: Drupal Website URL: https://dev-visitboise.pantheonsite.io: 
 
 
-Total load time is 1.154 seconds
+Total load time is 1.425 seconds
 
 
-85% of CSS is unused, 2 total stylesheets
+15% of CSS is unused, 1 total stylesheets
 
 
 59% of JS is unused
@@ -507,7 +507,7 @@ End of report for Webpage Title: Drupal Website URL: https://dev-visitboise.pant
 ## For Webpage Title: Drupal Website URL: https://dev-waitinglist.pantheonsite.io: 
 
 
-Total load time is 1.185 seconds
+Total load time is 1.82 seconds
 
 
 85% of CSS is unused, 2 total stylesheets
@@ -522,8 +522,8 @@ End of report for Webpage Title: Drupal Website URL: https://dev-waitinglist.pan
 End of run
 
 
-The whole thing took 0.87685 minutes.
-Fri Mar 29 2024 13:21:07 GMT+0000 (Coordinated Universal Time)
+The whole thing took 1.0106333333333333 minutes.
+Fri Mar 29 2024 14:18:15 GMT+0000 (Coordinated Universal Time)
 
 
 
