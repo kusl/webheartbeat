@@ -2,7 +2,7 @@
 
 
 Start a new run
-Thu Nov 28 2024 14:08:06 GMT+0000 (Coordinated Universal Time)
+Thu Nov 28 2024 15:08:41 GMT+0000 (Coordinated Universal Time)
 
 
 
@@ -14,7 +14,7 @@ Thu Nov 28 2024 14:08:06 GMT+0000 (Coordinated Universal Time)
 ## For Webpage Title: US Geography Quiz URL: https://coloradoquiz.web.app/quiz/us-geography: 
 
 
-Total load time is 1.088 seconds
+Total load time is 1.194 seconds
 
 
 68% of CSS is unused, 2 total stylesheets
@@ -48,7 +48,7 @@ End of report for Webpage Title: US History Quiz URL: https://coloradoquiz.web.a
 ## For Webpage Title: US Civics Quiz URL: https://coloradoquiz.web.app/quiz/us-civics: 
 
 
-Total load time is 1.036 seconds
+Total load time is 1.035 seconds
 
 
 68% of CSS is unused, 2 total stylesheets
@@ -63,8 +63,8 @@ End of report for Webpage Title: US Civics Quiz URL: https://coloradoquiz.web.ap
 End of run
 
 
-The whole thing took 0.06245 minutes.
-Thu Nov 28 2024 14:08:09 GMT+0000 (Coordinated Universal Time)
+The whole thing took 0.06378333333333333 minutes.
+Thu Nov 28 2024 15:08:45 GMT+0000 (Coordinated Universal Time)
 
 
 
