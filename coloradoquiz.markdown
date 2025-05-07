@@ -2,17 +2,69 @@
 
 
 Start a new run
-Wed May 07 2025 12:17:48 GMT+0000 (Coordinated Universal Time)
+Wed May 07 2025 13:25:20 GMT+0000 (Coordinated Universal Time)
 
 
 
 
-{
-  error: TimeoutError: Timed out after 30000 ms while trying to connect to the browser! Only Chrome at revision r856583 is guaranteed to work.
-      at Timeout.onTimeout (/home/runner/work/webheartbeat/webheartbeat/node_modules/puppeteer/lib/cjs/puppeteer/node/BrowserRunner.js:204:20)
-      at listOnTimeout (internal/timers.js:557:17)
-      at processTimers (internal/timers.js:500:7)
-}
+
+
+
+
+## For Webpage Title: US Geography Quiz URL: https://coloradoquiz.web.app/quiz/us-geography: 
+
+
+Total load time is 1.98 seconds
+
+
+86% of CSS is unused, 11 total stylesheets
+
+
+82% of JS is unused
+
+
+End of report for Webpage Title: US Geography Quiz URL: https://coloradoquiz.web.app/quiz/us-geography
+
+
+
+
+## For Webpage Title: US History Quiz URL: https://coloradoquiz.web.app/quiz/us-history: 
+
+
+Total load time is 1.62 seconds
+
+
+88% of CSS is unused, 12 total stylesheets
+
+
+81% of JS is unused
+
+
+End of report for Webpage Title: US History Quiz URL: https://coloradoquiz.web.app/quiz/us-history
+
+
+
+
+## For Webpage Title: US Civics Quiz URL: https://coloradoquiz.web.app/quiz/us-civics: 
+
+
+Total load time is 1.983 seconds
+
+
+86% of CSS is unused, 11 total stylesheets
+
+
+81% of JS is unused
+
+
+End of report for Webpage Title: US Civics Quiz URL: https://coloradoquiz.web.app/quiz/us-civics
+
+
+End of run
+
+
+The whole thing took 0.17006666666666667 minutes.
+Wed May 07 2025 13:25:30 GMT+0000 (Coordinated Universal Time)
 
 
 
