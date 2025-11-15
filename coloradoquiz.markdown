@@ -2,7 +2,7 @@
 
 
 Start a new run
-Fri Nov 14 2025 23:08:42 GMT+0000 (Coordinated Universal Time)
+Sat Nov 15 2025 00:45:15 GMT+0000 (Coordinated Universal Time)
 
 
 
@@ -14,13 +14,13 @@ Fri Nov 14 2025 23:08:42 GMT+0000 (Coordinated Universal Time)
 ## For Webpage Title: US Geography Quiz URL: https://coloradoquiz.web.app/quiz/us-geography: 
 
 
-Total load time is 2.254 seconds
+Total load time is 5.307 seconds
 
 
 86% of CSS is unused, 25 total stylesheets
 
 
-47% of JS is unused
+57% of JS is unused
 
 
 End of report for Webpage Title: US Geography Quiz URL: https://coloradoquiz.web.app/quiz/us-geography
@@ -31,7 +31,7 @@ End of report for Webpage Title: US Geography Quiz URL: https://coloradoquiz.web
 ## For Webpage Title: US History Quiz URL: https://coloradoquiz.web.app/quiz/us-history: 
 
 
-Total load time is 1.38 seconds
+Total load time is 1.472 seconds
 
 
 86% of CSS is unused, 25 total stylesheets
@@ -48,13 +48,13 @@ End of report for Webpage Title: US History Quiz URL: https://coloradoquiz.web.a
 ## For Webpage Title: US Civics Quiz URL: https://coloradoquiz.web.app/quiz/us-civics: 
 
 
-Total load time is 1.515 seconds
+Total load time is 5.19 seconds
 
 
 86% of CSS is unused, 25 total stylesheets
 
 
-71% of JS is unused
+70% of JS is unused
 
 
 End of report for Webpage Title: US Civics Quiz URL: https://coloradoquiz.web.app/quiz/us-civics
@@ -63,8 +63,8 @@ End of report for Webpage Title: US Civics Quiz URL: https://coloradoquiz.web.ap
 End of run
 
 
-The whole thing took 0.11618333333333333 minutes.
-Fri Nov 14 2025 23:08:49 GMT+0000 (Coordinated Universal Time)
+The whole thing took 0.22725 minutes.
+Sat Nov 15 2025 00:45:29 GMT+0000 (Coordinated Universal Time)
 
 
 
