@@ -2,7 +2,7 @@
 
 
 Start a new run
-Mon Mar 30 2026 23:24:18 GMT+0000 (Coordinated Universal Time)
+Tue Mar 31 2026 01:13:05 GMT+0000 (Coordinated Universal Time)
 
 
 
@@ -14,7 +14,7 @@ Mon Mar 30 2026 23:24:18 GMT+0000 (Coordinated Universal Time)
 ## For Webpage Title: US Geography Quiz URL: https://coloradoquiz.web.app/quiz/us-geography: 
 
 
-Total load time is 1.982 seconds
+Total load time is 1.977 seconds
 
 
 88% of CSS is unused, 10 total stylesheets
@@ -31,10 +31,10 @@ End of report for Webpage Title: US Geography Quiz URL: https://coloradoquiz.web
 ## For Webpage Title: US History Quiz URL: https://coloradoquiz.web.app/quiz/us-history: 
 
 
-Total load time is 1.064 seconds
+Total load time is 1.981 seconds
 
 
-89% of CSS is unused, 11 total stylesheets
+88% of CSS is unused, 10 total stylesheets
 
 
 62% of JS is unused
@@ -48,10 +48,10 @@ End of report for Webpage Title: US History Quiz URL: https://coloradoquiz.web.a
 ## For Webpage Title: US Civics Quiz URL: https://coloradoquiz.web.app/quiz/us-civics: 
 
 
-Total load time is 1.054 seconds
+Total load time is 1.972 seconds
 
 
-89% of CSS is unused, 11 total stylesheets
+88% of CSS is unused, 10 total stylesheets
 
 
 62% of JS is unused
@@ -63,8 +63,8 @@ End of report for Webpage Title: US Civics Quiz URL: https://coloradoquiz.web.ap
 End of run
 
 
-The whole thing took 0.08008333333333334 minutes.
-Mon Mar 30 2026 23:24:23 GMT+0000 (Coordinated Universal Time)
+The whole thing took 0.11815 minutes.
+Tue Mar 31 2026 01:13:12 GMT+0000 (Coordinated Universal Time)
 
 
 
