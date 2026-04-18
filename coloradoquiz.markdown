@@ -2,7 +2,7 @@
 
 
 Start a new run
-Sat Apr 18 2026 18:29:45 GMT+0000 (Coordinated Universal Time)
+Sat Apr 18 2026 19:32:41 GMT+0000 (Coordinated Universal Time)
 
 
 
@@ -14,7 +14,7 @@ Sat Apr 18 2026 18:29:45 GMT+0000 (Coordinated Universal Time)
 ## For Webpage Title: US Geography Quiz URL: https://coloradoquiz.web.app/quiz/us-geography: 
 
 
-Total load time is 1.97 seconds
+Total load time is 1.981 seconds
 
 
 88% of CSS is unused, 10 total stylesheets
@@ -31,7 +31,7 @@ End of report for Webpage Title: US Geography Quiz URL: https://coloradoquiz.web
 ## For Webpage Title: US History Quiz URL: https://coloradoquiz.web.app/quiz/us-history: 
 
 
-Total load time is 1.905 seconds
+Total load time is 1.076 seconds
 
 
 89% of CSS is unused, 11 total stylesheets
@@ -48,7 +48,7 @@ End of report for Webpage Title: US History Quiz URL: https://coloradoquiz.web.a
 ## For Webpage Title: US Civics Quiz URL: https://coloradoquiz.web.app/quiz/us-civics: 
 
 
-Total load time is 1.868 seconds
+Total load time is 1.081 seconds
 
 
 89% of CSS is unused, 11 total stylesheets
@@ -63,8 +63,8 @@ End of report for Webpage Title: US Civics Quiz URL: https://coloradoquiz.web.ap
 End of run
 
 
-The whole thing took 0.10811666666666667 minutes.
-Sat Apr 18 2026 18:29:52 GMT+0000 (Coordinated Universal Time)
+The whole thing took 0.10656666666666667 minutes.
+Sat Apr 18 2026 19:32:47 GMT+0000 (Coordinated Universal Time)
 
 
 
